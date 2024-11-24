@@ -1,3 +1,16 @@
+Prerequisites: 
+python
+pygame
+a brain
+
+to run:
+navigate to game folder
+"python3 main.py"
+
+
+------------------------ 
+LORE:
+
 User:
 	*groan* ... ... ...
 ???:
